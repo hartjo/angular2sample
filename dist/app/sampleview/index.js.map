@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sourceRoot":"","sources":["../../Users/DarkerThanBlack/Projects/html/angular2sample/tmp/broccoli_type_script_compiler-input_base_path-dmvZo2sn.tmp/0/src/app/sampleview/index.ts"],"names":[],"mappings":";;;;AAAA,iBAAc,wBAAwB,CAAC,EAAA","sourcesContent":["export * from './sampleview.component';\n"]}

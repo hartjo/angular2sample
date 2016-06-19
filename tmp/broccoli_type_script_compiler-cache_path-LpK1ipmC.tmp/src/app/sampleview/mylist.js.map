@@ -1,0 +1,1 @@
+{"version":3,"file":"mylist.js","sourceRoot":"","sources":["../../Users/DarkerThanBlack/Projects/html/angular2sample/tmp/broccoli_type_script_compiler-input_base_path-oeFgxptH.tmp/0/src/app/sampleview/mylist.ts"],"names":[],"mappings":";AAAA;IAAA;IACA,CAAC;IAAD,aAAC;AAAD,CAAC,AADD,IACC;AADY,cAAM,SAClB,CAAA","sourcesContent":["export class Mylist {\n}\n"]}
